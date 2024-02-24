@@ -2,6 +2,12 @@
 
 via powershell:
 
-*ls
-*cd
-*mkdir
+* ls
+* cd
+* mkdir
+* rm
+* cp
+* mv
+
+
+the powershell gives hints in case of mistakes
